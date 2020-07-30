@@ -11,3 +11,7 @@ def parrot(phrase = "Squawk!")
   phase = "Squawk!"
 end
 
+def parrot(phrase)
+  phrase = "Pretty Bird!"
+  puts parrot
+end
