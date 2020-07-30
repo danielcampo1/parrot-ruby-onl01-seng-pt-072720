@@ -3,6 +3,7 @@
 
 def parrot
   parrot = "Squawk!"
+  swua
 end
 
 
