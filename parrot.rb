@@ -8,5 +8,5 @@ end
 
 def parrot(phrase = "squawk!")
   puts phrase
-  phase = "Pretty bird!"
+  phase = "Squawk!"
 end
