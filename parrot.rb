@@ -11,7 +11,3 @@ def parrot(phrase = "squawk!")
   phase = "Squawk!"
 end
 
-def parrot
-  phrase = "Squawk!"
-  puts phrase
-end
